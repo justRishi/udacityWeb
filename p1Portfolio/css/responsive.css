@@ -31,7 +31,9 @@
   	display: block;
   }
 
-
+  .mainPicture{
+    height: 50%;
+  }
   .project{
   	display: flex;
   	width:100%;

@@ -35,6 +35,10 @@ body{
    padding: 0 20px 0 0; 
  }
 
+ .footer{
+    padding: 50px 0 0 10px;
+ }
+
 /* Grid Layout */
 
 .col-1 {
