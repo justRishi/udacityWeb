@@ -1,0 +1,89 @@
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+* {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+body{
+    background-color: rgba(229, 229, 229, 1);
+}
+
+
+.projectPic, .mainPicture, .description, .featuredWorkTitle{
+   padding: 10px 10px 10px 10px;
+   background-color: white;
+ }
+
+ .content{
+    background-color: white !important;
+ }
+
+ .header{
+   border-bottom-style: solid;
+   border-bottom-color: rgba(255, 86, 70, 1);
+   text-align: right;
+
+ }
+
+/* Grid Layout */
+
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.row {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;    
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}

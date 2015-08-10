@@ -1,0 +1,21 @@
+{
+  "name": "p1portfolio",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-responsive-images": "^0.1.6"
+  },
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-responsive-images": "^0.1.6",
+    "grunt-contrib-concat": "^0.5.1"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
