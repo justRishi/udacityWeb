@@ -10,6 +10,10 @@
     font-family: 'Rajdhani', sans-serif;
 }
 
+img{
+    width: 100%;
+}
+
 body{
     background-color: rgba(229, 229, 229, 1);
 }
@@ -28,7 +32,7 @@ body{
    border-bottom-style: solid;
    border-bottom-color: rgba(255, 86, 70, 1);
    text-align: right;
-
+   padding: 0 10px 0 0; 
  }
 
 /* Grid Layout */
